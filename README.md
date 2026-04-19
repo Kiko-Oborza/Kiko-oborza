@@ -2,10 +2,10 @@
 
 ## ABOUT ME 🙌🙌
 - 🔭 I’m currently working on our Thesis "InigoSync: A Web-based Managements System"
-- 🌱 I’m currently learning PHP,REACT & FIGMA
-- 🏫 3rd year College on STI Lucena Philippines
+- 🌱 Right now I'm studying PHP,REACT & FIGMA
+- 🏫 3rd year College at STI Lucena Philippines
 - 💼 Currently Working on private contractual as a Video ads Editor
-- ⚡ Fun fact about me: I'm a overthinker
+- ⚡ Fun fact about me: I'm a hardworking and competetive person
 
 ## TECH STACK 🤖
 - HTML
