@@ -1,12 +1,18 @@
 ## Good day! 👋
 
-<!--
-**Kiko-Oborza/Kiko-oborza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## ABOUT ME 🙌🙌
+- 🔭 I’m currently working on our Thesis "InigoSync: A Web-based Managements System"
+- 🌱 I’m currently learning PHP,REACT & FIGMA
+- 🏫 3rd year College on STI Lucena Philippines
+- 💼 Currently Working on private contractual as a Video ads Editor
+- ⚡ Fun fact about me: I'm a overthinker
 
-- 🔭 I’m currently working on Web-based System (Thesis)
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Programming
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## TECH STACK 🤖
+- HTML
+- CSS
+- JS
+- JAVA
+- PYTHON
+- C#
+- KOTLIN
 
